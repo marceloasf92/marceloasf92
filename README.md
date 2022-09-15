@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Marcelo!
-<div align="center">
+<div align="center" justifyContent="center">
   <a href="https://github.com/marceloasf92">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=marceloasf92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marceloasf92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloasf92&langs_count=8&theme=dark"/>
 </div>
 
